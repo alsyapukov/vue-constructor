@@ -1,0 +1,27 @@
+{
+  "type": "about",
+  "background": "#f6f6f6",
+  "content": {
+    "position": "center",
+    "reverse": false,
+    "title": {
+      "text": "WONDERS",
+      "color": "#222",
+      "size": "104px"
+    },
+    "description": {
+      "text": "We organise dream holidays to breathtaking places all over the world. Choose from our special destinations or suggest your own",
+      "color": "#222",
+      "size": "20px",
+      "top": "20px",
+      "interval": "26px"
+    },
+    "button": {
+      "text": "Read more",
+      "color": "#fff",
+      "background": "#1f5bff",
+      "size": "20px",
+      "top": "30px"
+    }
+  }
+}
